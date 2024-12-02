@@ -1,6 +1,8 @@
-# Greeting App - Israel Mafabi Emmanuel
+# Python Instantiation - Israel Mafabi Emmanuel
 
-This is a simple Python application that showcases the usage of functions and why.
+This is a simple Python application that showcases the usage of Classes in Python and How to instantiate.
+
+More so how to invoke instance methods... 😉
 
 ## Requirements
 
